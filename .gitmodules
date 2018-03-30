@@ -1,0 +1,3 @@
+[submodule "woocommerce-aldrapay/aldrapay-api-php"]
+	path = woocommerce-aldrapay/aldrapay-api-php
+	url = https://github.com/aldrapay/aldrapay-api-php
