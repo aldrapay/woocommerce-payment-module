@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Aldrapay Payment Gateway
 Plugin URI: https://github.com/aldrapay/woocommerce-payment-module
 Description: Extends WooCommerce with Aldrapay payment gateway.
-Version: 1.2.1
+Version: 1.3.0
 Author: Aldrapay development team
 
 Text Domain: woocommerce-aldrapay
@@ -12,7 +12,7 @@ Domain Path: /languages/
  */
 
 //setup definitions - may not be needed but belts and braces chaps!
-define('BT_ALDRAPAY_VERSION', '1.2.1');
+define('BT_ALDRAPAY_VERSION', '1.3.0');
 
 if ( !defined('WP_CONTENT_URL') )
   define('WP_CONTENT_URL', get_option('siteurl') . '/wp-content');
