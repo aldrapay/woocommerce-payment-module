@@ -1,0 +1,284 @@
+# English translations of Aldrapay plugin
+# Copyright (C) 2015 Aldrapay team
+# This file is distributed under the same license as the woocommerce-aldrapay package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"POT-Creation-Date: 2015-08-28 16:14+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Aldrapay\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bt-aldrapay.php:130 bt-aldrapay.php:160
+msgid "Aldrapay"
+msgstr ""
+
+#: bt-aldrapay.php:141
+msgid "Payment"
+msgstr ""
+
+#: bt-aldrapay.php:141
+msgid "Authorization"
+msgstr ""
+
+#: bt-aldrapay.php:145
+msgid "Enable/Disable"
+msgstr ""
+
+#: bt-aldrapay.php:147
+msgid "Enable Aldrapay"
+msgstr ""
+
+#: bt-aldrapay.php:151
+msgid "Title"
+msgstr ""
+
+#: bt-aldrapay.php:153
+msgid "This is the title displayed to the user during checkout."
+msgstr ""
+
+#: bt-aldrapay.php:154
+msgid "Credit or debit card"
+msgstr ""
+
+#: bt-aldrapay.php:157
+msgid "Admin Title"
+msgstr ""
+
+#: bt-aldrapay.php:159
+msgid "This is the title displayed to the admin user"
+msgstr ""
+
+#: bt-aldrapay.php:163
+msgid "Description"
+msgstr ""
+
+#: bt-aldrapay.php:165
+msgid "This is the description which the user sees during checkout."
+msgstr ""
+
+#: bt-aldrapay.php:166
+msgid "VISA, Mastercard"
+msgstr ""
+
+#: bt-aldrapay.php:169
+msgid "Shop ID"
+msgstr ""
+
+#: bt-aldrapay.php:171
+msgid "Please enter your Shop Id."
+msgstr ""
+
+#: bt-aldrapay.php:175
+msgid "Secret Key"
+msgstr ""
+
+#: bt-aldrapay.php:177
+msgid "Please enter your Shop secret key."
+msgstr ""
+
+#: bt-aldrapay.php:181
+msgid "Payment gateway domain"
+msgstr ""
+
+#: bt-aldrapay.php:183
+msgid "Please enter payment gateway domain of your payment processor."
+msgstr ""
+
+#: bt-aldrapay.php:187
+msgid "Payment page domain"
+msgstr ""
+
+#: bt-aldrapay.php:189
+msgid "Please enter payment page domain of your payment processor."
+msgstr ""
+
+#: bt-aldrapay.php:193
+msgid "Transaction Type"
+msgstr ""
+
+#: bt-aldrapay.php:196
+msgid "Select Payment (Authorization & Capture)  or Authorization."
+msgstr ""
+
+#: bt-aldrapay.php:200
+msgid "Enable admin capture etc."
+msgstr ""
+
+#: bt-aldrapay.php:202
+msgid "Show Transaction Table"
+msgstr ""
+
+#: bt-aldrapay.php:203
+msgid "Allows admin to send capture/void/refunds"
+msgstr ""
+
+#: bt-aldrapay.php:208
+msgid "Debug Log"
+msgstr ""
+
+#: bt-aldrapay.php:210
+msgid "Enable logging"
+msgstr ""
+
+#: bt-aldrapay.php:212
+msgid "Log events"
+msgstr ""
+
+#: bt-aldrapay.php:246
+msgid "Order"
+msgstr ""
+
+#: bt-aldrapay.php:282
+msgid "Unable to contact the payment server at this time. Please try later."
+msgstr ""
+
+#: bt-aldrapay.php:296
+msgid "Payment error: "
+msgstr ""
+
+#: bt-aldrapay.php:305
+msgid "Thank you for your order. We are now redirecting you to make the payment."
+msgstr ""
+
+#: bt-aldrapay.php:324
+msgid "Make payment"
+msgstr ""
+
+#: bt-aldrapay.php:324
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: bt-aldrapay.php:374
+msgid "Order currently pending no capture/refund available"
+msgstr ""
+
+#: bt-aldrapay.php:419
+msgid "Please enter amount to capture"
+msgstr ""
+
+#: bt-aldrapay.php:420
+msgid "Capture"
+msgstr ""
+
+#: bt-aldrapay.php:423
+msgid "Please enter amount to void"
+msgstr ""
+
+#: bt-aldrapay.php:424
+msgid "Void"
+msgstr ""
+
+#: bt-aldrapay.php:427
+msgid "Please enter amount to refund"
+msgstr ""
+
+#: bt-aldrapay.php:428
+msgid "Refund"
+msgstr ""
+
+#: bt-aldrapay.php:429
+msgid "Refund reason"
+msgstr ""
+
+#: bt-aldrapay.php:509
+msgid "Payment success."
+msgstr ""
+
+#: bt-aldrapay.php:510
+msgid "Payment failed."
+msgstr ""
+
+#: bt-aldrapay.php:511
+msgid "Payment incomplete, order status not updated."
+msgstr ""
+
+#: bt-aldrapay.php:512
+msgid "Payment error, order status not updated."
+msgstr ""
+
+#: bt-aldrapay.php:515
+msgid "Payment authorised. No money captured yet."
+msgstr ""
+
+#: bt-aldrapay.php:516
+msgid "Authorization failed."
+msgstr ""
+
+#: bt-aldrapay.php:517
+msgid "Authorisation incomplete, order status not updated."
+msgstr ""
+
+#: bt-aldrapay.php:518
+msgid "Authorisation error, order status not updated"
+msgstr ""
+
+#: bt-aldrapay.php:522
+msgid "Callback error, order status not updated"
+msgstr ""
+
+#: bt-aldrapay.php:555
+msgid "UID is not correct"
+msgstr ""
+
+#: bt-aldrapay.php:560
+msgid "Wrong order status. Void is not possible."
+msgstr ""
+
+#: bt-aldrapay.php:561
+msgid "Void status"
+msgstr ""
+
+#: bt-aldrapay.php:562
+msgid "Void attempt failed"
+msgstr ""
+
+#: bt-aldrapay.php:563
+msgid "Payment voided"
+msgstr ""
+
+#: bt-aldrapay.php:566
+msgid "Wrong order status. Capture is not possible."
+msgstr ""
+
+#: bt-aldrapay.php:567
+msgid "Capture status"
+msgstr ""
+
+#: bt-aldrapay.php:568
+msgid "Capture attempt failed"
+msgstr ""
+
+#: bt-aldrapay.php:569
+msgid "Payment captured"
+msgstr ""
+
+#: bt-aldrapay.php:572
+msgid "Wrong order status. Refund is not possible."
+msgstr ""
+
+#: bt-aldrapay.php:573
+msgid "Refund status"
+msgstr ""
+
+#: bt-aldrapay.php:574
+msgid "Refund attempt failed"
+msgstr ""
+
+#: bt-aldrapay.php:575
+msgid "Payment refunded"
+msgstr ""
+
+#: bt-aldrapay.php:597
+msgid "Refunded from Woocommerce"
+msgstr ""
